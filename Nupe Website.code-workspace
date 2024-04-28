@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Downloads/trajan-pro"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nupe Website"
+	}
+}
